@@ -6,7 +6,7 @@
 - change_dmi.sh - для смены полей dmi таблицы
 - tcp_conf.sh - изменяет настройки tcp/ip стека. Настройки сохраняются после перезагрузки машины.
 
-#############
+
 
 # These scripts are for solving everyday tasks. 
 - usb-mount.sh - mounts flash drives in astra 1.7.5/Ubuntu 22.04 
