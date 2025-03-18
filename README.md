@@ -5,6 +5,7 @@
 - decompress_and_unarhive.sh - проводит декомпрессию файлов и разархивирования скаченных файлов. По типу *.zip *.bzip2 и т.д.
 - change_dmi.sh - для смены полей dmi таблицы
 - tcp_conf.sh - изменяет настройки tcp/ip стека. Настройки сохраняются после перезагрузки машины.
+
 #############
 
 # These scripts are for solving everyday tasks. 
