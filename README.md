@@ -7,7 +7,6 @@
 - change_dmi.sh - для смены полей dmi таблицы
 - tcp_conf.sh - изменяет настройки TCP/IP стека. Настройки сохраняются после перезагрузки машины.
 - wrapper_dmi.sh - скрипт-обертка для взятия необходимой информации из таблицы dmi об оборудовании.
-- creating_bridge.sh - скрипт для создания виртуального сетевого моста.
 
 
 # These scripts are for solving everyday tasks.
@@ -19,4 +18,3 @@
 - change_dmi.sh - to change the dmi table fields
 - tcp_conf.sh - changes the TCP/IP stack settings. The settings are saved after rebooting the machine.
 - wrapper_dmi.sh - wrapper script for taking the necessary information from the dmi table about the equipment.
-- creating_bridge.sh - script to create virtual network bridge.
